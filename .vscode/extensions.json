@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "burkeholland.simple-react-snippets",
+        "msjsdiag.vscode-react-native",
+        "planbcoding.vscode-react-refactor",
+        "jeremyrajan.react-component",
+        "kelset.rn-full-pack",
+        "ofhumanbondage.react-proptypes-intellisense",
+        "xabikos.reactsnippets"
+    ]
+}
